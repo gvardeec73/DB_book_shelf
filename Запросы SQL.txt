@@ -1,0 +1,3 @@
+INSERT INTO books ('name','print data','author','genre_id') VALUES ('Алые паруса',1985,'Александр Грин',3);
+
+INSERT INTO genres ('genre') VALUES ('Фантастика');
